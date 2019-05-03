@@ -1,0 +1,1066 @@
+"NAME_2","ID_2","Cod.Municipio"
+"El Encanto",1,91263
+"La Chorrera",2,91405
+"La Pedrera",3,91407
+"Leticia",4,91001
+"Mirití-Paraná",5,NA
+"Puerto Nariño",6,91540
+"Puerto Santander",7,54553
+"Tarapacá",8,91798
+"Abejorral",9,5002
+"Abriaquí",10,5004
+"Alejandría",11,5021
+"Amagá",12,5030
+"Amalfi",13,5031
+"Andes",14,5034
+"Angelópolis",15,5036
+"Angostura",16,5038
+"Anorí",17,5040
+"Anzá",18,5044
+"Apartadó",19,5045
+"Arboletes",20,5051
+"Argelia",21,5055
+"Armenia",22,5059
+"Barbosa",23,5079
+"Bello",24,5088
+"Belmira",25,5086
+"Betania",26,5091
+"Betulia",27,5093
+"Bolívar",28,19100
+"Briceño",29,5107
+"Buriticá",30,5113
+"Cáceres",31,5120
+"Cañasgordas",32,5138
+"Caicedo",33,5125
+"Caldas",34,5129
+"Campamento",35,5134
+"Caracolí",36,5142
+"Caramanta",37,5145
+"Carepa",38,5147
+"Carolina del Principe",39,NA
+"Caucasia",40,5154
+"Chigorodó",41,5172
+"Cisneros",42,5190
+"Cocorná",43,5197
+"Concepción",44,5206
+"Concordia",45,5209
+"Copacabana",46,5212
+"Dabeiba",47,5234
+"Don Matías",48,NA
+"Ebéjico",49,5240
+"El Bagre",50,5250
+"El Carmen de Viboral",51,5148
+"El Santuario",52,5697
+"Entrerríos",53,5264
+"Envigado",54,5266
+"Fredonia",55,5282
+"Frontino",56,5284
+"Gómez Plata",57,5310
+"Giraldo",58,5306
+"Girardota",59,5308
+"Granada",60,5313
+"Guadalupe",61,5315
+"Guarne",62,5318
+"Guatapé",63,5321
+"Heliconia",64,5347
+"Hispania",65,5353
+"Itagüí",66,5360
+"Ituango",67,5361
+"Jardín",68,5364
+"Jericó",69,5368
+"La Ceja",70,5376
+"La Estrella",71,5380
+"La Unión de Sucre",72,NA
+"Liborina",73,5411
+"Maceo",74,5425
+"Marinilla",75,5440
+"Medellín",76,5001
+"Montebello",77,5467
+"Murindó",78,5475
+"Mutatá",79,5480
+"Nariño",80,5483
+"Nechí",81,5495
+"Necoclí",82,5490
+"Olaya",83,5501
+"Peñol",84,5541
+"Pequé",85,NA
+"Pueblorrico",86,5576
+"Puerto Berrío",87,5579
+"Puerto Nare",88,5585
+"Puerto Triunfo",89,5591
+"Remedios",90,5604
+"Retiro",91,5607
+"Rionegro",92,5615
+"Sabanalarga",93,5628
+"Sabaneta",94,5631
+"Salgar",95,5642
+"San Andrés de Cuerquia",96,NA
+"San Carlos",97,5649
+"San Francisco",98,5652
+"San Jerónimo",99,5656
+"San José de la Montaña",100,5658
+"San Juan de Urabá",101,5659
+"San Luis",102,5660
+"San Pedro de los Milagros",103,5664
+"San Pedro de Urabá",104,5665
+"San Rafael",105,5667
+"San Roque",106,5670
+"San Vicente",107,NA
+"Santa Bárbara",108,5679
+"Santa Fe de Antioquia",109,NA
+"Santa Rosa de Osos",110,5686
+"Santo Domingo",111,5690
+"Segovia",112,5736
+"Sonsón",113,5756
+"Sopetrán",114,5761
+"Támesis",115,5789
+"Tarazá",116,5790
+"Tarso",117,5792
+"Titiribí",118,5809
+"Toledo",119,5819
+"Turbo",120,5837
+"Uramita",121,5842
+"Urrao",122,5847
+"Valdivia",123,5854
+"Valparaíso",124,5856
+"Vegachí",125,5858
+"Venecia",126,5861
+"Vigía del Fuerte",127,5873
+"Yalí",128,5885
+"Yarumal",129,5887
+"Yolombó",130,5890
+"Yondó",131,5893
+"Zaragoza",132,5895
+"Arauca",133,81001
+"Arauquita",134,81065
+"Cravo Norte",135,81220
+"Fortul",136,81300
+"Puerto Rondón",137,81591
+"Saravena",138,81736
+"Tame",139,81794
+"Baranoa",140,8078
+"Barranquilla",141,8001
+"Campo de la Cruz",142,8137
+"Candelaria",143,8141
+"Galapa",144,8296
+"Juan de Acosta",145,8372
+"Luruaco",146,8421
+"Malambo",147,8433
+"Manatí",148,8436
+"Palmar de Varela",149,8520
+"Piojó",150,8549
+"Polonuevo",151,8558
+"Ponedera",152,8560
+"Puerto Colombia",153,8573
+"Repelón",154,8606
+"Sabanagrande",155,8634
+"Sabanalarga",156,5628
+"Santa Lucía",157,8675
+"Santo Tomás",158,8685
+"Soledad",159,8758
+"Suan",160,8770
+"Tubará",161,8832
+"Usiacurí",162,8849
+"Achí",163,13006
+"Altos del Rosario",164,13030
+"Arjona",165,13052
+"Barranco de Loba",166,13074
+"Córdoba",167,13212
+"Calamar",168,13140
+"Cantagallo",169,13160
+"Cartagena de Indias",170,13001
+"Cicuco",171,13188
+"El Carmen de Bolívar",172,13244
+"El Guamo",173,13248
+"Hatillo de Loba",174,13300
+"Mahates",175,13433
+"María la Baja",176,13442
+"Margarita",177,13440
+"Mompós",178,13468
+"Montecristo",179,13458
+"Morales",180,13473
+"Pinillos",181,13549
+"Río Viejo",182,13600
+"San Estanislao de Kostka",183,NA
+"San Fernando",184,13650
+"San Jacinto",185,13654
+"San Juan Nepomuceno",186,13657
+"San Martín de Loba",187,13667
+"San Pablo",188,13670
+"Santa Catalina",189,13673
+"Santa Rosa del Sur",190,13688
+"Santa Rosa",191,13683
+"Simití",192,13744
+"Soplaviento",193,13760
+"Talaigua Nuevo",194,13780
+"Turbaco",195,13836
+"Turbaná",196,13838
+"Villanueva",197,13873
+"Zambrano",198,13894
+"Almeida",199,15022
+"Aquitania",200,15047
+"Arcabuco",201,15051
+"Belén",202,15087
+"Berbeo",203,15090
+"Beteitiva",204,NA
+"Boavita",205,15097
+"Boyacá",206,15104
+"Briceño",207,5107
+"Buenavista",208,15109
+"Busbanza",209,NA
+"Cómbita",210,15204
+"Caldas",211,5129
+"Campohermoso",212,15135
+"Cerinza",213,15162
+"Chíquiza",214,15232
+"Chinavita",215,15172
+"Chiquinquirá",216,15176
+"Chiscas",217,15180
+"Chita",218,15183
+"Chitaraque",219,15185
+"Chivatá",220,15187
+"Chivor",221,15236
+"Ciénaga",222,47189
+"Coper",223,15212
+"Corrales",224,15215
+"Covarachía",225,15218
+"Cuítiva",226,15226
+"Cubará",227,15223
+"Cucaita",228,15224
+"Duitama",229,15238
+"El Cocuy",230,15244
+"El Espino",231,15248
+"Firavitoba",232,15272
+"Floresta",233,15276
+"Gámeza",234,15296
+"Gachantivá",235,15293
+"Garagoa",236,15299
+"Guacamayas",237,15317
+"Guateque",238,15322
+"Guayatá",239,15325
+"Guicán",240,NA
+"Izá",241,NA
+"Jenesano",242,15367
+"Jericó",243,5368
+"La Capilla",244,15380
+"La Uvita",245,15403
+"La Victoria",246,15401
+"Labranzagrande",247,15377
+"Macanal",248,15425
+"Maripí",249,15442
+"Miraflores",250,15455
+"Mongua",251,15464
+"Monguí",252,15466
+"Moniquirá",253,15469
+"Motavita",254,15476
+"Muzo",255,15480
+"Nobsa",256,15491
+"Nuevo Colón",257,15494
+"Oicatá",258,15500
+"Otanche",259,15507
+"Páez",260,15514
+"Pachavita",261,15511
+"Paipa",262,15516
+"Pajarito",263,15518
+"Panqueba",264,15522
+"Pauna",265,15531
+"Paya",266,15533
+"Paz de Río",267,15537
+"Pesca",268,15542
+"Pisba",269,15550
+"Puerto Boyacá",270,15572
+"Quípama",271,15580
+"Ráquira",272,15600
+"Ramiriquí",273,15599
+"Rondón",274,15621
+"Sáchica",275,15638
+"Saboyá",276,15632
+"Samacá",277,15646
+"San Eduardo",278,15660
+"San José de Pare",279,15664
+"San Luis de Gaceno",280,15667
+"San Mateo",281,15673
+"San Miguel de Sema",282,15676
+"San Pablo de Borbur",283,15681
+"Santa María",284,15690
+"Santa Rosa de Viterbo",285,15693
+"Santa Sofía",286,15696
+"Santana",287,15686
+"Sativanorte",288,15720
+"Sativasur",289,15723
+"Siachoque",290,15740
+"Soatá",291,15753
+"Socha",292,15757
+"Socotá",293,15755
+"Sogamoso",294,15759
+"Somondoco",295,15761
+"Soracá",296,15764
+"Sora",297,15762
+"Sotaquirá",298,15763
+"Susacón",299,15774
+"Sutamarchán",300,15776
+"Sutatenza",301,15778
+"Tasco",302,15790
+"Tenza",303,15798
+"Tibaná",304,15804
+"Tibasosa",305,15806
+"Tinjacá",306,15808
+"Tipacoque",307,15810
+"Toca",308,15814
+"Toguí",309,NA
+"Topagá",310,NA
+"Tota",311,15822
+"Tunja",312,15001
+"Tunungua",313,NA
+"Turmequé",314,15835
+"Tuta",315,15837
+"Tutazá",316,15839
+"Umbita",317,NA
+"Ventaquemada",318,15861
+"Villa de Leyva",319,15407
+"Viracachá",320,15879
+"Zetaquirá",321,NA
+"Ayapel",322,23068
+"Buenavista",323,15109
+"Canalete",324,23090
+"Cereté",325,23162
+"Chimá",326,23168
+"Chinú",327,23182
+"Ciénaga de Oro",328,23189
+"Los Córdobas",329,23419
+"Moñitos",330,23500
+"Momil",331,23464
+"Montelíbano",332,23466
+"Montería",333,23001
+"Planeta Rica",334,23555
+"Pueblo Nuevo",335,23570
+"Puerto Escondido",336,23574
+"Puerto Libertador",337,23580
+"Purísima",338,NA
+"San Andrés de Sotavento",339,23670
+"San Antero",340,23672
+"San Bernardino de Sahagún",341,NA
+"San Bernardo del Viento",342,23675
+"San Carlos",343,5649
+"San Pelayo",344,23686
+"Santa Cruz de Lorica",345,NA
+"Tierralta",346,23807
+"Valencia",347,23855
+"Aguadas",348,17013
+"Anserma",349,17042
+"Aranzazú",350,NA
+"Belalcázar",351,17088
+"Chinchiná",352,17174
+"Filadelfia",353,17272
+"La Dorada",354,17380
+"La Merced",355,17388
+"Manizales",356,17001
+"Manzanares",357,17433
+"Marmato",358,17442
+"Marquetalia",359,17444
+"Marulanda",360,17446
+"Neira",361,17486
+"Pácora",362,17513
+"Palestina",363,17524
+"Pensilvania",364,17541
+"Riosucio",365,17614
+"Risaralda",366,17616
+"Salamina",367,17653
+"Samaná",368,17662
+"Supía",369,17777
+"Victoria",370,17867
+"Villamaría",371,17873
+"Viterbo",372,17877
+"Albania",373,18029
+"Belén de los Andaquies",374,NA
+"Cartagena del Chairá",375,18150
+"Curillo",376,18205
+"El Doncello",377,18247
+"El Paujíl",378,18256
+"Florencia",379,18001
+"La Montañita",380,18410
+"Milán",381,18460
+"Morelia",382,18479
+"Puerto Rico",383,18592
+"San José del Fragua",384,18610
+"San Vicente del Caguán",385,18753
+"Solano",386,18756
+"Valparaíso",387,5856
+"Aguazul",388,85010
+"Chámeza",389,85015
+"Hato Corozal",390,85125
+"La Salina",391,85136
+"Maní",392,85139
+"Monterrey",393,85162
+"Nunchía",394,85225
+"Orocué",395,85230
+"Paz de Ariporo",396,85250
+"Pore",397,85263
+"Recetor",398,85279
+"Sácama",399,85315
+"Sabanalarga",400,5628
+"San Luis de Palenque",401,85325
+"Támara",402,85400
+"Tauramena",403,85410
+"Trinidad",404,85430
+"Villanueva",405,13873
+"Yopal",406,85001
+"Almaguer",407,19022
+"Argelia",408,5055
+"Balboa",409,19075
+"Bolívar",410,19100
+"Buenos Aires",411,19110
+"Cajibío",412,19130
+"Caldonó",413,NA
+"Caloto",414,19142
+"Corinto",415,19212
+"El Tambo",416,19256
+"Florencia",417,18001
+"Guapí",418,19318
+"Inzá",419,19355
+"Jambaló",420,19364
+"La Sierra",421,19392
+"La Vega",422,19397
+"López de Micay",423,19418
+"Mercaderes",424,19450
+"Miranda",425,19455
+"Morales",426,13473
+"Páez",427,15514
+"Padilla",428,19513
+"Patía",429,19532
+"Piendamó",430,19548
+"Popayán",431,19001
+"Puerto Tejada",432,19573
+"Puracé",433,19585
+"Rosas",434,19622
+"San Sebastián",435,19693
+"Santa Rosa",436,13683
+"Santander de Quilichao",437,19698
+"Silvia",438,19743
+"Sotará",439,NA
+"Suárez",440,19780
+"Timbío",441,19807
+"Timbiquí",442,19809
+"Toribío",443,19821
+"Totoró",444,19824
+"Aguachica",445,20011
+"Agustín Codazzi",446,20013
+"Astrea",447,20032
+"Becerril",448,20045
+"Bosconia",449,20060
+"Chimichagua",450,20175
+"Chiriguaná",451,20178
+"Curumaní",452,20228
+"El Copey",453,20238
+"El Paso",454,20250
+"Gamarra",455,20295
+"González",456,20310
+"La Gloria",457,20383
+"La Jagua de Ibirico",458,20400
+"La Paz",459,20621
+"Manaure",460,44560
+"Pailitas",461,20517
+"Pelaya",462,20550
+"Río de Oro",463,20614
+"San Alberto",464,20710
+"San Diego",465,20750
+"San Martín",466,20770
+"Tamalameque",467,20787
+"Valledupar",468,20001
+"Acandí",469,27006
+"Alto Baudó",470,27025
+"Bagadó",471,27073
+"Bahía Solano",472,27075
+"Bajo Baudó",473,27077
+"Bojayá",474,27099
+"Condoto",475,27205
+"El Cantón del San Pablo",476,27135
+"El Carmen de Atrato",477,27245
+"El Litoral del San Juan",478,27250
+"Istmina",479,27361
+"Juradó",480,27372
+"Lloró",481,27413
+"Novita",482,NA
+"Nuquí",483,27495
+"Quibdó",484,27001
+"Riosucio",485,17614
+"San José del Palmar",486,27660
+"Sipí",487,27745
+"Tadó",488,27787
+"Unguía",489,27800
+"Agua de Dios",490,25001
+"Albán",491,25019
+"Anapoima",492,25035
+"Anolaima",493,25040
+"Apulo",494,25599
+"Arbeláez",495,25053
+"Beltrán",496,25086
+"Bituima",497,25095
+"Bojacá",498,25099
+"Cáqueza",499,25151
+"Cabrera",500,25120
+"Cachipay",501,25123
+"Cajicá",502,25126
+"Caparrapí",503,25148
+"Carmen de Carupa",504,25154
+"Chía",505,25175
+"Chaguaní",506,25168
+"Chipaque",507,25178
+"Choachí",508,25181
+"Chocontá",509,25183
+"Cogua",510,25200
+"Cota",511,25214
+"Cucunubá",512,25224
+"El Colegio",513,25245
+"El Peñon",514,NA
+"Fómeque",515,25279
+"Facatativá",516,25269
+"Fúquene",517,25288
+"Fosca",518,25281
+"Funza",519,25286
+"Fusagasugá",520,25290
+"Gachalá",521,25293
+"Gachancipá",522,25295
+"Gachetá",523,25297
+"Gama",524,25299
+"Girardot",525,25307
+"Guachetá",526,25317
+"Guaduas",527,25320
+"Guasca",528,25322
+"Guataquí",529,25324
+"Guatavita",530,25326
+"Guayabal de Síquima",531,25328
+"Guayabetal",532,25335
+"Gutiérrez",533,25339
+"Jerusalén",534,25368
+"Junín",535,25372
+"La Calera",536,25377
+"La Mesa",537,25386
+"La Palma",538,25394
+"La Peña",539,25398
+"La Vega",540,19397
+"Lenguazaque",541,25407
+"Machetá",542,25426
+"Madrid",543,25430
+"Manta",544,25436
+"Medina",545,25438
+"Mosquera",546,25473
+"Nariño",547,5483
+"Nemocón",548,25486
+"Nilo",549,25488
+"Nimaima",550,25489
+"Nocaima",551,25491
+"Pacho",552,25513
+"Paime",553,25518
+"Pandi",554,25524
+"Paratebueno",555,25530
+"Pasca",556,25535
+"Puerto Salgar",557,25572
+"Pulí",558,25580
+"Quebradanegra",559,25592
+"Quetame",560,25594
+"Quipile",561,25596
+"Ricaurte",562,25612
+"San Antonio del Tequendama",563,25645
+"San Bernardo",564,25649
+"San Cayetano",565,25653
+"San Francisco",566,5652
+"San Juan de Río Seco",567,NA
+"Santafé de Bogotá",568,NA
+"Sasaima",569,25718
+"Sesquilé",570,25736
+"Sibaté",571,25740
+"Silvania",572,25743
+"Simijaca",573,25745
+"Soacha",574,25754
+"Sopó",575,25758
+"Subachoque",576,25769
+"Suesca",577,25772
+"Supatá",578,25777
+"Susa",579,25779
+"Sutatausa",580,25781
+"Tabio",581,25785
+"Tausa",582,25793
+"Tena",583,25797
+"Tenjo",584,25799
+"Tibacuy",585,25805
+"Tibirita",586,25807
+"Tocaima",587,25815
+"Tocancipá",588,25817
+"Topaipí",589,25823
+"Ubalá",590,25839
+"Ubaque",591,25841
+"Une",592,25845
+"Utica",593,NA
+"Venecia",594,5861
+"Vergara",595,25862
+"Vianí",596,25867
+"Villa de San Diego de Ubaté",597,25843
+"Villagómez",598,25871
+"Villapinzón",599,25873
+"Villeta",600,25875
+"Viotá",601,25878
+"Yacopí",602,25885
+"Zipacón",603,25898
+"Zipaquirá",604,25899
+"Barranco Minas",605,94343
+"Cacahual",606,94886
+"La Guadalupe",607,94885
+"Pana Pana",608,94887
+"Puerto Colombia",609,8573
+"Puerto Inírida",610,NA
+"San Felipe",611,94883
+"Calamar",612,13140
+"El Retorno",613,95025
+"Miraflores",614,15455
+"San José del Guaviare",615,95001
+"Acevedo",616,41006
+"Agrado",617,41013
+"Aipe",618,41016
+"Algeciras",619,41020
+"Altamira",620,41026
+"Baraya",621,41078
+"Campoalegre",622,41132
+"Colombia",623,41206
+"Elías",624,41244
+"Garzón",625,41298
+"Gigante",626,41306
+"Guadalupe",627,5315
+"Hobo",628,41349
+"Iquira",629,NA
+"Isnos",630,41359
+"La Argentina",631,41378
+"La Plata",632,41396
+"Nátaga",633,41483
+"Neiva",634,41001
+"Oporapa",635,41503
+"Paicol",636,41518
+"Palermo",637,41524
+"Palestina",638,17524
+"Pitalito",639,41551
+"Pital",640,41548
+"Rivera",641,41615
+"Saladoblanco",642,41660
+"San Agustín",643,41668
+"Santa María",644,15690
+"Suaza",645,41770
+"Tarquí",646,NA
+"Tello",647,41799
+"Teruel",648,41801
+"Tesalia",649,41797
+"Timaná",650,41807
+"Villavieja",651,41872
+"Yaguará",652,41885
+"Barrancas",653,44078
+"El Molino",654,44110
+"Fonseca",655,44279
+"Maicao",656,44430
+"Manaure",657,44560
+"Riohacha",658,44001
+"San Juan del Cesar",659,44650
+"Uribia",660,44847
+"Urumita",661,44855
+"Villanueva",662,13873
+"Aracataca",663,47053
+"Ariguaní",664,47058
+"Cerro de San Antonio",665,47161
+"Chivolo",666,47170
+"Ciénaga",667,47189
+"El Banco",668,47245
+"El Piñón",669,47258
+"Fundación",670,47288
+"Guamal",671,47318
+"Pedraza",672,47541
+"Pivijay",673,47551
+"Plato",674,47555
+"Pueblo Viejo",675,NA
+"Remolino",676,47605
+"Salamina",677,17653
+"San Sebastián de Buenavista",678,47692
+"San Zenón",679,47703
+"Santa Ana",680,47707
+"Santa Marta (Dist. Esp.)",681,NA
+"Tenerife",682,47798
+"Acacías",683,50006
+"Barranca de Upía",684,50110
+"Cabuyaro",685,50124
+"Castilla la Nueva",686,50150
+"Cumaral",687,50226
+"El Calvario",688,50245
+"El Castillo",689,50251
+"El Dorado",690,50270
+"Fuente de Oro",691,50287
+"Granada",692,5313
+"Guamal",693,47318
+"La Macarena",694,50350
+"La Uribe",695,NA
+"Lejanías",696,50400
+"Mapiripán",697,50325
+"Mesetas",698,50330
+"Puerto Concordia",699,50450
+"Puerto Gaitán",700,50568
+"Puerto López",701,50573
+"Puerto Lleras",702,50577
+"Puerto Rico",703,18592
+"Restrepo",704,50606
+"San Carlos de Guaroa",705,50680
+"San Juan de Arama",706,50683
+"San Juanito",707,50686
+"San Luis de Cubarral",708,50223
+"San Martín",709,20770
+"Villavicencio",710,50001
+"Vista Hermosa",711,NA
+"Albán",712,25019
+"Aldana",713,52022
+"Ancuyá",714,52036
+"Arboleda",715,52051
+"Barbacoas",716,52079
+"Belén",717,15087
+"Buesaco",718,52110
+"Córdoba",719,13212
+"Chachagüí",720,52240
+"Colón",721,52203
+"Consacá",722,52207
+"Contadero",723,52210
+"Cuaspud",724,NA
+"Cumbal",725,52227
+"Cumbitara",726,52233
+"El Charco",727,52250
+"El Rosario",728,52256
+"El Tablón de Gomez",729,NA
+"El Tambo",730,19256
+"Francisco Pizarro",731,52520
+"Funes",732,52287
+"Guachucal",733,52317
+"Guaitarilla",734,52320
+"Gualmatán",735,52323
+"Iles",736,52352
+"Imués",737,52354
+"Ipiales",738,52356
+"La Cruz",739,52378
+"La Florida",740,52381
+"La Llanada",741,52385
+"La Tola",742,52390
+"La Unión de Sucre",743,NA
+"Leiva",744,52405
+"Linares",745,52411
+"Los Andes",746,52418
+"Magüí",747,52427
+"Mallama",748,52435
+"Mosquera",749,25473
+"Olaya Herrera",750,52490
+"Ospina",751,52506
+"Policarpa",752,52540
+"Potosí",753,52560
+"Providencia",754,52565
+"Puerres",755,52573
+"Pupiales",756,52585
+"Ricaurte",757,25612
+"Roberto Payán",758,52621
+"Samaniego",759,52678
+"San Bernardo",760,25649
+"San Juan de Pasto",761,NA
+"San Lorenzo",762,52687
+"San Pablo",763,13670
+"San Pedro de Cartago",764,52694
+"Sandoná",765,52683
+"Santa Bárbara",766,5679
+"Santa Cruz",767,NA
+"Sapuyes",768,52720
+"Taminango",769,52786
+"Tangua",770,52788
+"Túquerres",771,52838
+"Tumaco",772,NA
+"Yacuanquer",773,52885
+"Abrego",774,NA
+"Arboledas",775,54051
+"Bochalema",776,54099
+"Bucarasica",777,54109
+"Cáchira",778,54128
+"Cácota",779,54125
+"Chinácota",780,54172
+"Chitagá",781,54174
+"Convención",782,54206
+"Cucutilla",783,54223
+"Durania",784,54239
+"El Carmen",785,54245
+"El Tarra",786,54250
+"El Zulia",787,54261
+"Gramalote",788,54313
+"Hacarí",789,54344
+"Herrán",790,54347
+"La Esperanza",791,54385
+"La Playa de Belén",792,NA
+"Labateca",793,54377
+"Los Patios",794,54405
+"Lourdes",795,54418
+"Mutiscua",796,54480
+"Ocaña",797,54498
+"Pamplona",798,54518
+"Pamplonita",799,54520
+"Puerto Santander",800,54553
+"Ragonvalia",801,54599
+"Salazar de las Palmas",802,NA
+"San Calixto",803,54670
+"San Cayetano",804,25653
+"San José de Cúcuta",805,NA
+"Santiago",806,54680
+"Santo Domingo de Silos",807,NA
+"Sardinata",808,54720
+"Teorama",809,54800
+"Tibú",810,54810
+"Toledo",811,5819
+"Villa Caro",812,54871
+"Villa del Rosario",813,54874
+"Colón",814,52203
+"Orito",815,86320
+"Puerto Asís",816,86568
+"Puerto Caicedo",817,86569
+"Puerto Guzmán",818,86571
+"Puerto Leguízamo",819,86573
+"San Francisco",820,5652
+"San Miguel de Mocoa",821,NA
+"Santiago",822,54680
+"Sibundoy",823,86749
+"Valle del Guamuez",824,86865
+"Villagarzón",825,86885
+"Armenia",826,5059
+"Buenavista",827,15109
+"Córdoba",828,13212
+"Calarcá",829,63130
+"Circasia",830,63190
+"Filandia",831,63272
+"Génova",832,63302
+"La Tebaida",833,63401
+"Montenegro",834,63470
+"Pijao",835,63548
+"Quimbaya",836,63594
+"Salento",837,63690
+"Apía",838,66045
+"Balboa",839,19075
+"Belén de Umbría",840,66088
+"Dosquebradas",841,66170
+"Guática",842,66318
+"La Celia",843,66383
+"La Virginia",844,66400
+"Marsella",845,66440
+"Mistrato",846,NA
+"Pereira",847,66001
+"Pueblo Rico",848,66572
+"Quinchía",849,66594
+"Santa Rosa de Cabal",850,66682
+"Santuario",851,66687
+"n.a. (1)",852,NA
+"Providencia",853,52565
+"San Andrés",854,68669
+"Aguada",855,68013
+"Albania",856,18029
+"Aratoca",857,68051
+"Barbosa",858,5079
+"Barichara",859,68079
+"Barrancabermeja",860,68081
+"Betulia",861,5093
+"Bolívar",862,19100
+"Bucaramanga",863,68001
+"Cabrera",864,25120
+"California",865,68132
+"Capitanejo",866,68147
+"Carcasí",867,68152
+"Cepitá",868,68160
+"Cerrito",869,68162
+"Charalá",870,68167
+"Charta",871,68169
+"Chimá",872,23168
+"Chipatá",873,68179
+"Cimitarra",874,68190
+"Concepción",875,5206
+"Confines",876,68209
+"Contratación",877,68211
+"Coromoro",878,68217
+"Curití",879,68229
+"El Carmen de Chucurí",880,68235
+"El Guacamayo",881,68245
+"El Peñon",882,NA
+"El Playón",883,68255
+"Encino",884,68264
+"Enciso",885,68266
+"Florián",886,68271
+"Floridablanca",887,68276
+"Gámbita",888,68298
+"Güepsa",889,68327
+"Galán",890,68296
+"Girón",891,68307
+"Guaca",892,68318
+"Guadalupe",893,5315
+"Guapotá",894,68322
+"Guavatá",895,68324
+"Hato",896,68344
+"Jesús María",897,68368
+"Jordán",898,68370
+"La Belleza",899,68377
+"La Paz",900,20621
+"Landázuri",901,68385
+"Lebrija",902,68406
+"Los Santos",903,68418
+"Málaga",904,68432
+"Macaravita",905,68425
+"Matanza",906,68444
+"Mogotes",907,68464
+"Molagavita",908,68468
+"Ocamonte",909,68498
+"Oiba",910,68500
+"Onzaga",911,68502
+"Páramo",912,68533
+"Palmar",913,68522
+"Palmas del Socorro",914,68524
+"Piedecuesta",915,68547
+"Pinchote",916,68549
+"Puente Nacional",917,68572
+"Puerto Parra",918,68573
+"Puerto Wilches",919,68575
+"Rionegro",920,5615
+"Sabana de Torres",921,68655
+"San Andrés de Cuerquia",922,NA
+"San Benito",923,68673
+"San Gil",924,68679
+"San Joaquín",925,68682
+"San José de Miranda",926,68684
+"San Miguel",927,68686
+"San Vicente de Chucurí",928,68689
+"Santa Bárbara",929,5679
+"Santa Helena del Opón",930,68720
+"Simacota",931,68745
+"Socorro",932,68755
+"Suaita",933,68770
+"Sucre",934,19785
+"Suratá",935,68780
+"Tona",936,68820
+"Vélez",937,68861
+"Valle de San José",938,68855
+"Vetas",939,68867
+"Villanueva",940,13873
+"Zapatoca",941,68895
+"Buenavista",942,15109
+"Caimito",943,70124
+"Chalán",944,70230
+"Colosó",945,NA
+"Corozal",946,70215
+"Galeras",947,70235
+"Guarandá",948,NA
+"La Unión de Sucre",949,NA
+"Los Palmitos",950,70418
+"Majagual",951,70429
+"Morroa",952,70473
+"Ovejas",953,70508
+"Sampués",954,70670
+"San Antonio de Palmito",955,NA
+"San Benito Abad",956,70678
+"San Juan de Betulia",957,70702
+"San Marcos",958,70708
+"San Onofre",959,70713
+"San Pedro",960,70717
+"Sincé",961,NA
+"Sincelejo",962,70001
+"Sucre",963,19785
+"Tolú",964,NA
+"Toluviejo",965,NA
+"Alpujarra",966,73024
+"Alvarado",967,73026
+"Ambalema",968,73030
+"Anzoátegui",969,73043
+"Armero",970,NA
+"Ataco",971,73067
+"Cajamarca",972,73124
+"Carmen de Apicalá",973,73148
+"Casabianca",974,73152
+"Chaparral",975,73168
+"Coello",976,73200
+"Coyaima",977,73217
+"Cunday",978,73226
+"Dolores",979,73236
+"Espinal",980,73268
+"Falán",981,NA
+"Flandes",982,73275
+"Fresno",983,73283
+"Guamo",984,73319
+"Herveo",985,73347
+"Honda",986,73349
+"Ibagué",987,73001
+"Icononzo",988,73352
+"Lérida",989,73408
+"Líbano",990,73411
+"Melgar",991,73449
+"Murillo",992,73461
+"Natagaima",993,73483
+"Ortega",994,73504
+"Piedras",995,73547
+"Planadas",996,73555
+"Prado",997,73563
+"Purificación",998,73585
+"Rioblanco",999,73616
+"Roncesvalles",1000,73622
+"Rovira",1001,73624
+"Saldaña",1002,73671
+"San Antonio",1003,73675
+"San Luís",1004,NA
+"San Sebastian de Mariquita",1005,NA
+"Santa Isabel",1006,73686
+"Suárez",1007,19780
+"Valle de San Juan",1008,73854
+"Venadillo",1009,73861
+"Villahermosa",1010,73870
+"Villarrica",1011,73873
+"Alcalá",1012,76020
+"Andalucía",1013,76036
+"Ansermanuevo",1014,76041
+"Argelia",1015,5055
+"Bolívar",1016,19100
+"Buenaventura",1017,76109
+"Bugalagrande",1018,76113
+"Caicedonia",1019,76122
+"Calima",1020,76126
+"Candelaria",1021,8141
+"Cartago",1022,76147
+"Dagua",1023,76233
+"El Águila",1024,76243
+"El Cairo",1025,76246
+"El Cerrito",1026,76248
+"El Dovio",1027,76250
+"Florida",1028,76275
+"Ginebra",1029,76306
+"Guacarí",1030,76318
+"Guadalajara de Buga",1031,76111
+"Jamundí",1032,76364
+"La Cumbre",1033,76377
+"La Unión de Sucre",1034,NA
+"La Victoria",1035,15401
+"Obando",1036,76497
+"Palmira",1037,76520
+"Pradera",1038,76563
+"Restrepo",1039,50606
+"Riofrío",1040,76616
+"Roldanillo",1041,76622
+"San Pedro",1042,70717
+"Santiago de Cali",1043,NA
+"Sevilla",1044,76736
+"Toro",1045,76823
+"Trujillo",1046,76828
+"Tuluá",1047,76834
+"Ulloa",1048,76845
+"Versalles",1049,76863
+"Vijes",1050,76869
+"Yotoco",1051,76890
+"Yumbo",1052,76892
+"Zarzal",1053,76895
+"Carurú",1054,97161
+"Mitú",1055,97001
+"Pacoa",1056,97511
+"Papunahua",1057,NA
+"Taraira",1058,97666
+"Yavaraté",1059,97889
+"Cumaribo",1060,99773
+"La Primavera",1061,99524
+"Puerto Carreño",1062,99001
+"San Jose de Ocune",1063,NA
+"Santa Rita",1064,NA
+"Santa Rosalía",1065,99624

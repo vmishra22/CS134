@@ -1,0 +1,52 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+#Ignore these things
+.vscode
+Install_config*
+CATIAV5Level.lvl
+ToolsData/
+win_b64/
+win_csa64/
+linux_csa64/
+linux_a64/
+**/various/
+**/*Generated/
+Objects/
+ImportedInterfaces/
+Output/
+/src/RunFewTests.log
+/src/RunFewTests.bat
+/src/RunAllTests.log
+/src/RunAllTests.bat
+/src/mkmk.log
+/mkmk.log
+/src/ODTFail.log
+/src/ODTFail.bat
+/src/mkmk2.log
+mkcsc
+mkscc
+secrets.env
+**/__pycache__/
+
+#ADL prohibited file types
+*.bak
+*.xml_non_catia_sketch
+*.xml_swx_sketch
+*.orig
+
+#Due to WAFR limitations
+VenApacheTomEE
+deploy_wafr_ws.bat
+launch_wafr_ws.bat
+
+#Except these things
+!**/lib/win_b64/
+!/src/**/src/win_b64/
+!/src/**/src/linux_a64/
+!/src/**/src/linux_csa64/
+/HW4/datasets/wikiTalk.txt
+/HW4/datasets/higgs.txt
+/venv/Scripts/basemap-1.2.0-cp37-cp37m-win_amd64.whl
+/venv/Scripts/basemap-1.2.0-cp27-cp27m-win32.whl
+/venv/Scripts/basemap-1.2.0-cp37-cp37m-win32.whl
